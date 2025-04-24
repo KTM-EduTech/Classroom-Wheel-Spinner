@@ -1,48 +1,35 @@
 # 🎡 Classroom Wheel Spinner
 
-An interactive web-based classroom spinner designed to randomly select an item from a list provided by the user. This tool is perfect for teachers who want to make classroom activities more engaging and fun!
+![Classroom Wheel Spinner Screenshot](https://raw.githubusercontent.com/KTM-EduTech/Classroom-Wheel-Spinner/refs/heads/main/Classroom%20Spinner.png)
 
-## 🌟 Features
+A fun and interactive classroom tool for randomly selecting names, tasks, or activities! Simply enter your list of items and spin the wheel to choose one at random. Great for teachers and engaging students in an exciting way.
 
-- Responsive layout for all devices
-- Easy-to-use text input for list creation
-- Animated spinning wheel with sound effects
-- Automatically removes selected items to avoid repetition
-- Customizable list, ready for names, activities, questions, or any classroom content
+## 🚀 Features
 
-## 🖥️ Demo
+- 🎯 Customizable item input
+- 🎨 Colorful spinning wheel
+- 🔊 Sound effects for spin and win
+- 📱 Responsive design for all devices
 
-🎯 Try it live: *(You can host it via GitHub Pages or your preferred platform)*
+## 💡 How to Use
 
-## 🚀 Getting Started
+1. Enter items in the textarea (one per line).
+2. Click `ADD LIST` to populate the wheel.
+3. Click `SPIN` to randomly select an item.
 
-Clone or download the repository, then open `index.html` in any browser.
+## 📁 Project Structure
 
-```bash
-git clone https://github.com/yourusername/classroom-wheel-spinner.git
-cd classroom-wheel-spinner
-open index.html
-```
+- `index.html` — Main HTML file with embedded CSS and JavaScript
+- No external dependencies (except fonts and sounds via CDN)
 
-## 📂 Project Structure
+## 📷 Screenshot
 
-```
-classroom-wheel-spinner/
-├── index.html        # Main HTML file
-├── screenshot.png    # (Optional) Screenshot for preview
-└── README.md         # Project documentation
-```
+![Screenshot](https://raw.githubusercontent.com/KTM-EduTech/Classroom-Wheel-Spinner/refs/heads/main/Classroom%20Spinner.png)
 
-## 🎨 Customization
+## 📄 License
 
-- Modify fonts via the Google Fonts link in the `<head>`
-- Change slice colors inside the JavaScript's `colors` array
-- Replace sound effects by updating the audio source URLs
-
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### Made with ❤️ by [Your Name or GitHub Handle]
+Made with ❤️ by [KTM EduTech](https://www.kydmasong.net)
